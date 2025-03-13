@@ -21,3 +21,4 @@
 - Práticas de DevOps e integração contínua
 - Metodologias ágeis no desenvolvimento de software
 
+![Estatísticas do GitHub de norgetz](https://github-readme-stats.vercel.app/api?username=norgetz&show_icons=true&theme=tokyonight) 
