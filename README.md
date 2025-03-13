@@ -13,7 +13,7 @@
   - Análise de Dados
 
 🚀 **Projetos em Destaque:**  
-- [Athleta]
+- [Athleta](https://github.com/Athleta-Interdisciplinar/AthletaServlet.git): Projeto feito em Servlet com Java para um Trabalho Interdisciplinar feito em grupo, apresentado em uma feira de tecnologia.
 - [LadoA](https://github.com/GabrielLoureiro09/LadoA.git): Projeto em Desevolvimento feito com Java, SpringBoot, React e SQL.
 
 🌱 **Atualmente Aprendendo:**  
