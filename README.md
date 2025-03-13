@@ -7,10 +7,14 @@
 - **Linguagens de Programação:**  
   - Java
   - JavaScript
+  - SQL
+  - MongoDB
+  - Python
+  - HTML, CSS
 - **Ferramentas e Tecnologias:**  
   - Git & GitHub
-  - Desenvolvimento Web
-  - Análise de Dados
+  - Docker
+  - Figma
 
 🚀 **Projetos em Destaque:**  
 - [Athleta](https://github.com/Athleta-Interdisciplinar/AthletaServlet.git): Projeto feito em Servlet com Java para um Trabalho Interdisciplinar feito em grupo, apresentado em uma feira de tecnologia.
