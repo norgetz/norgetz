@@ -13,9 +13,9 @@
   - Análise de Dados
 
 🚀 **Projetos em Destaque:**  
-- [PrimeiroRepositorio](https://github.com/norgetz/PrimeiroRepositorio): Meu primeiro repositório no GitHub, onde comecei minha jornada no controle de versão.
-- [git-bash-remoto](https://github.com/norgetz/git-bash-remoto): Repositório para praticar comandos Bash e aprimorar habilidades no terminal.
-- [LadoA](https://github.com/norgetz/LadoA)
+- [Athleta]
+- [LadoA](https://github.com/GabrielLoureiro09/LadoA.git): Projeto em Desevolvimento feito com Java, SpringBoot, React e SQL.
+
 🌱 **Atualmente Aprendendo:**  
 - Frameworks JavaScript modernos (React, Angular ou Vue.js)
 - Práticas de DevOps e integração contínua
